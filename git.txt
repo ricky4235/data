@@ -1,0 +1,4 @@
+建Repo:
+	1. 直接在GitHub新增Repo
+	2. 再到GUI(GitKraken)Clone到電腦
+		Repository→GitHub.com→...
